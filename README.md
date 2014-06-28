@@ -1,5 +1,5 @@
 # [ng-boilerplate](http://ianwalter.github.io/ng-boilerplate/)
-*A base for front-end development with AngularJS.*
+*A base for front-end development with AngularJS. foo*
 
 #### ng-boilerplate includes:
 * **Application**
